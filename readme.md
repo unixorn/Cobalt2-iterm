@@ -6,4 +6,4 @@ Two things for lovers of the [Sublime Text Theme](https://github.com/wesbos/coba
 
 `cobalt2.itermcolors` is for anyone who uses iTerm2 and wants the colours. The `cobalt1.zsh-theme` is the prompt layout for zsh users. 
 
-They work well together! You will need to install the patched powerline font as well: <https://github.com/Lokaltog/powerline-fonts>
+They work well together! You will need to install powerline compatible fonts like the [Vim Powerline patched fonts](https://github.com/Lokaltog/powerline-fonts) or [Input Mono](http://input.fontbureau.com/)
